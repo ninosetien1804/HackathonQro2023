@@ -80,6 +80,6 @@ With the real path of the image location to use.
 
 - [Link to Kaggle Dataset](https://www.kaggle.com/datasets/mdwaquarazam/microorganism-image-classification)
 - [Doi to Kaggle Dataset](https://doi.org/10.34740/KAGGLE/DSV/4032122)
-- [Link to Kaggle Dataset] (https://www.kaggle.com/datasets/saurabhshahane/virus-images)
+- [Link to Kaggle Dataset](https://www.kaggle.com/datasets/saurabhshahane/virus-images)
 - [support link for deep learning](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb)
 
