@@ -1,6 +1,6 @@
 # NASA Space Apps Challenge 2023 - Building the Space Biology “Model Zoo”
+[Learn More](https://www.spaceappschallenge.org/2023/challenges/building-the-space-biology-model-zoo/)
 
-![Project link](https://www.spaceappschallenge.org/2023/challenges/building-the-space-biology-model-zoo/)
 
 ## Project Description
 
@@ -19,7 +19,7 @@ Convolutional model that uses a database of images of viruses and bacteria, obta
 
 ### Microorganism Database (Microorganism.zip)
 
-- Description: A database of virus and bacteria images compiled from publicly available sources. The images have been preprocessed and organized for use in the project.
+- Description: A database of viruses and bacteria images compiled from publicly available sources. The images have been preprocessed and organized in order for them to be used in the project.
 - Total Images: 982 (492 bacteria, 490 virus)
 - Data Split: 70% for training, 30% for testing
 - Directory Structure:
@@ -33,7 +33,7 @@ Convolutional model that uses a database of images of viruses and bacteria, obta
 
 ### Prediction Dataset (Predecir.zip)
 
-- Description: A subset of the test data from the Microorganism Database used for manual predictions. It contains two folders, one for virus and one for bacteria, with images numbered for reference.
+- Description: A subset of the test data from the Microorganism Database used for manual predictions. It contains two folders, one for viruses and one for bacteria, with images numbered for reference.
 
 ## Installation
 
@@ -63,18 +63,18 @@ It is a python code designed during the event (October 7, 2023 and October 8, 20
 To make predictions using the Convolutional Neural Network, follow these steps:
 
 1. **Installation**: Ensure that you have installed Python 3.10.12 or later, along with the required dependencies as explained in the [Installation](#installation) section.
-2. **Modifies**: To predict with the Convolutional Neural Network it is necessary to replace the code section:
+2. **Modifications**: To predict with the Convolutional Neural Network it is necessary to replace the code section:
    "# Ruta de la imagen que deseas predecir
 imagen_ruta = "Predecir/Bacteria/Prueba (4).jpg"  # Ajusta la ruta según la ubicación real"
 With the real path of the image location to use.
-3. **Displayed** The image used will be displayed with a header indicating the group of belonging (virus or bacteria).
+3. **Display** The image used will be displayed with a header indicating the group that it belongs to (virus or bacteria).
 ## Contributors
 - [Ninoska Setien](https://github.com/ninosetien1804)) -programmer
 - [Abigail Perrusquia](link_to_profile_2) - programmer
 - [Saul Troncoso] - Dataset
 - [Julio Cruz] - Dataset
 - [Cecilia González] -Dataset
-- - [Pablo Hernandez] - Dataset & programmer
+- [Pablo Hernandez] - Dataset & programmer
 
 ## Resources
 
