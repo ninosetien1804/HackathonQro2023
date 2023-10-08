@@ -69,7 +69,7 @@ imagen_ruta = "Predecir/Bacteria/Prueba (4).jpg"  # Ajusta la ruta según la ubi
 With the real path of the image location to use.
 3. **Display** The image used will be displayed with a header indicating the group that it belongs to (virus or bacteria).
 ## Contributors
-- [Ninoska Setien](https://github.com/ninosetien1804)) -programmer
+- [Ninoska Setien](https://github.com/ninosetien1804) -programmer
 - [Abigail Perrusquia](link_to_profile_2) - programmer
 - [Saul Troncoso](link_to_profile_2) - Dataset
 - [Julio Cruz](link_to_profile_2) - Dataset
