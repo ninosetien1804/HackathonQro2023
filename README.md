@@ -71,15 +71,15 @@ With the real path of the image location to use.
 ## Contributors
 - [Ninoska Setien](https://github.com/ninosetien1804)) -programmer
 - [Abigail Perrusquia](link_to_profile_2) - programmer
-- [Saul Troncoso] - Dataset
-- [Julio Cruz] - Dataset
-- [Cecilia González] -Dataset
-- [Pablo Hernandez] - Dataset & programmer
-
+- [Saul Troncoso](link_to_profile_2) - Dataset
+- [Julio Cruz](link_to_profile_2) - Dataset
+- [Cecilia González](link_to_profile_2) -Dataset
+- [Pablo Hernandez](link_to_profile_2) - Dataset & programmer
+- [Marcos Avilés](link_to_profile_2) - Assesor 
 ## Resources
 
 - [Link to Kaggle Dataset](https://www.kaggle.com/datasets/mdwaquarazam/microorganism-image-classification)
-- [Doi to Kaggle Dataset](https://doi.org/10.34740/KAGGLE/DSV/4032122))
-- [Link to Kaggle Dataset]https://www.kaggle.com/datasets/saurabhshahane/virus-images
+- [Doi to Kaggle Dataset](https://doi.org/10.34740/KAGGLE/DSV/4032122)
+- [Link to Kaggle Dataset] https://www.kaggle.com/datasets/saurabhshahane/virus-images
 - [support link for deep learning](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb)
 
